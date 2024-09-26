@@ -1,0 +1,9 @@
+ pandas 
+ numpy
+ matplot
+ matplotlib
+ seaborn
+opendatasets
+jupyter
+notebook
+sqlalchemy

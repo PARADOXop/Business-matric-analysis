@@ -9,3 +9,4 @@ notebook
 sqlalchemy
 folium
 geopy
+statsmodels
